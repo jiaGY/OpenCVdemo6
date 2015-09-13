@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/9/13 11:03:41。
+     1>项目“E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\OpenCVdemo6\OpenCVdemo6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Tools\VS2013\install\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         E:\Tools\VS2013\install\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\x64\Release\OpenCVdemo6.exe" /INCREMENTAL:NO /NOLOGO opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248d.lib opencv_objdetect248.lib opencv_ts248.lib opencv_video248.lib opencv_nonfree248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_videostab248.lib opencv_ml248d.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_objdetect248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_nonfree248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_videostab248d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\x64\Release\OpenCVdemo6.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\x64\Release\OpenCVdemo6.lib" /MACHINE:X64 x64\Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         OpenCVdemo6.vcxproj -> E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\x64\Release\OpenCVdemo6.exe
+     1>已完成生成项目“E:\Tools\VS2013\WorkSpace\OpenCVdemo6 by浅墨\OpenCVdemo6\OpenCVdemo6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.19
